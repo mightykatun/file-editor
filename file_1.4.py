@@ -10,7 +10,6 @@ while True:
             file.close()
             print("file closed")
             break
-
       elif choice == "y":
             file.close()
             file1 = open(filename, 'w')

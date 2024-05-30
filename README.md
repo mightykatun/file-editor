@@ -1,4 +1,3 @@
 # Python-File-Editing
 Edits txt files.
-
-Can be used to bypass weak usb or archive encryption.
+Attempt at making an editor for text files.
